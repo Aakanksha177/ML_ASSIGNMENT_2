@@ -72,3 +72,6 @@ The following machine learning classification models were implemented and evalua
 | Naive Bayes | Fast and simple model, but lower recall suggests the independence assumption among features limits its performance. |
 | Random Forest (Ensemble) | Improves overall performance with higher accuracy, AUC, and MCC by combining multiple decision trees and reducing overfitting. |
 | XGBoost (Ensemble) | Achieves the best performance across most metrics, especially AUC and MCC, demonstrating strong capability to model complex feature interactions. |
+
+<img width="1179" height="749" alt="Screenshot 2026-02-15 at 3 58 08 AM" src="https://github.com/user-attachments/assets/899ce00e-e050-41fc-9dab-2e3e68b4d93e" />
+
